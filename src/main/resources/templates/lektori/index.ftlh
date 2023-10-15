@@ -1,4 +1,5 @@
 [#ftl]
+
 <!DOCTYPE html>
 <html lang="cs">
 <head>
@@ -9,7 +10,7 @@
 <div class="container">
     [#include '/_common/header.ftlh']
 
-    [#list lektori]
+[#list lektori]
     <table class="table">
         <thead>
         <tr>

@@ -32,5 +32,4 @@ public class LektoriController {
     modelAndView.addObject("lektor", seznamLektoru.get(id));
     return modelAndView;
   }
-
 }
